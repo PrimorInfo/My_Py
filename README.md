@@ -1,2 +1,2 @@
 # My_Py
- Python Ptojects
+ Python Projects
